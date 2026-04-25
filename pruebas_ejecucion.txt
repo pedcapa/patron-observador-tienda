@@ -1,0 +1,15 @@
+✅ Cliente(nombre='Ana', correo='ana@test.com') se suscribió a 'Cámara'.
+🗑️  Cliente(nombre='Ana', correo='ana@test.com') fue eliminado de 'Cámara'.
+ℹ️  No hay clientes suscritos a 'Cámara'.
+✅ Cliente(nombre='Ana', correo='ana@test.com') se suscribió a 'Teclado Mecánico'.
+✅ Cliente(nombre='Bruno', correo='bruno@test.com') se suscribió a 'Mouse Gamer'.
+
+🔔 Aviso de Tienda de prueba: 'Teclado Mecánico' está disponible.
+📩 Notificación enviada a ana@test.com: Hola Ana, el producto 'Teclado Mecánico' ya está disponible en la tienda.
+
+salida de terminal:
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK

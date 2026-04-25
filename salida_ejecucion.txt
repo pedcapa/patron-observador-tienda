@@ -1,0 +1,27 @@
+✅ Cliente(nombre='Ana', correo='ana@example.com') se suscribió a 'Consola Nova X'.
+✅ Cliente(nombre='Bruno', correo='bruno@example.com') se suscribió a 'Consola Nova X'.
+✅ Cliente(nombre='Carla', correo='carla@example.com') se suscribió a 'Audífonos Luna Pro'.
+
+--- Llega inventario de la consola ---
+
+🔔 Aviso de Tienda Aurora: 'Consola Nova X' está disponible.
+📩 Notificación enviada a bruno@example.com: Hola Bruno, el producto 'Consola Nova X' ya está disponible en la tienda.
+📩 Notificación enviada a ana@example.com: Hola Ana, el producto 'Consola Nova X' ya está disponible en la tienda.
+
+--- Llega inventario de los audífonos ---
+
+🔔 Aviso de Tienda Aurora: 'Audífonos Luna Pro' está disponible.
+📩 Notificación enviada a carla@example.com: Hola Carla, el producto 'Audífonos Luna Pro' ya está disponible en la tienda.
+
+--- Bruno cancela su suscripción a la consola ---
+🗑️  Cliente(nombre='Bruno', correo='bruno@example.com') fue eliminado de 'Consola Nova X'.
+
+--- La consola vuelve a llegar ---
+
+🔔 Aviso de Tienda Aurora: 'Consola Nova X' está disponible.
+📩 Notificación enviada a ana@example.com: Hola Ana, el producto 'Consola Nova X' ya está disponible en la tienda.
+
+--- Resumen de notificaciones recibidas ---
+Ana: 2 notificación(es)
+Bruno: 1 notificación(es)
+Carla: 1 notificación(es)
